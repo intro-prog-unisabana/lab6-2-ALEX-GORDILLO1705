@@ -1,6 +1,5 @@
 # Write your code here!
 def employee_print(employee_info):
-    # Crear copia para no modificar el original
     info = employee_info.copy()
 
     name = info.pop("Name", "N/A")
@@ -16,3 +15,4 @@ def employee_print(employee_info):
             print(f"{key}: {value}")
     else:
         print("No other info!")
+        

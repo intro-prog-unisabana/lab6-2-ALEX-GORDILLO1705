@@ -4,26 +4,25 @@ Lab 6
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
 Número de horas:
-
+2 horas en tres dias en total 6 horas
 
 /****************************************************************************
 * ¿Encontraste algún problema serio? Si es así, por favor descríbelo.
 ******************************************************************************/
 
 ¿Sí o no?
-
+si en algunas opciones para utilizar los temas del diccionarios, por ejemplo en main.py,y overall.py
 
 /****************************************************************************
 * Escribe cualquier otro comentario aquí.
 ******************************************************************************/
-
-
-
+Ninguno
 /****************************************************************************
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-[escribe el enlace aquí]
+[https://github.com/ALEX-GORDILLO1705]
+
 
 /****************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
@@ -34,4 +33,5 @@ Número de horas:
  *      con las regulaciones de la Universidad.  /s/ Ada Lovelace
  ******************************************************************************/
 
-[escribe y firma la declaración aquí]
+[Esta tarea de programación representa mi propio trabajo de acuerdo
+ *      con las regulaciones de la Universidad.  /s/ Yilder Alexander Gordillo Basto.]
